@@ -6,4 +6,5 @@ Output Formatters in ASP.NET Core make it easy to format responses differently b
 [![](http://img.youtube.com/vi/nZBTW9SnnTw/0.jpg)](http://www.youtube.com/watch?v=nZBTW9SnnTw "")
 
 Output Formatters: https://docs.microsoft.com/aspnet/core/web-api/advanced/custom-formatters
+
 CsvHelper: https://joshclose.github.io/CsvHelper/
